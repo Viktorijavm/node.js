@@ -1,0 +1,28 @@
+{
+  "name": "intro2",
+  "version": "1.0.0",
+  "description": "First Node.JS project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "file": "nodemon ./files.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Viktorija <matulaityte.viktorija@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.5",
+    "nodemon": "^2.0.15"
+  },
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/front-end-by-rimantas/34-grupe-nodejs.git"
+},
+"bugs": {
+  "url": "https://github.com/front-end-by-rimantas/34-grupe-nodejs/issues"
+},
+"homepage": "https://github.com/front-end-by-rimantas/34-grupe-nodejs#readme"
+}
+
+  

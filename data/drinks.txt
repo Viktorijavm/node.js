@@ -1,0 +1,6 @@
+Arbata 0.15 10
+Kava 1.58 7 4
+Sula 7.00 3
+Gira 0.99 0
+Limonadas 1.25 5
+Sultys 2.22 8
